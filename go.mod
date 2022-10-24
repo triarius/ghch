@@ -1,4 +1,4 @@
-module github.com/Songmu/ghch
+module github.com/buildkite/ghch
 
 go 1.17
 
